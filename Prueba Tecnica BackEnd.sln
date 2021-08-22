@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Prueba Tecnica BackEnd", ".", "{2CD06D4F-E468-4CE3-B444-CE567163A50C}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_53231"
+		Debug.AspNetCompiler.PhysicalPath = "..\Prueba Tecnica BackEnd\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53231\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_53231"
+		Release.AspNetCompiler.PhysicalPath = "..\Prueba Tecnica BackEnd\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53231\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53231"
+		SlnRelativePath = "..\Prueba Tecnica BackEnd\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CD06D4F-E468-4CE3-B444-CE567163A50C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CD06D4F-E468-4CE3-B444-CE567163A50C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CA1D859-9FAC-49C1-AC4B-A1A8BF59A604}
+	EndGlobalSection
+EndGlobal
